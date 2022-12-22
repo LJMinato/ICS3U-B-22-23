@@ -5,7 +5,7 @@ package day3;
  * recall data/info
  */
 
-public class ExampleOne1 {
+public class ExampleOne {
     
 public static void main(String[] args) {
     //primitive types store the value
