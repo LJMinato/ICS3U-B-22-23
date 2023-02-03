@@ -118,7 +118,7 @@ public class DoubleArraySequence implements Cloneable {
       if(currentIndex + 1 >= data.length){
          double[] arr = new double[data.length*2];
 
-         for(int i = 0; i< data.length; i++){
+         for(int i = 0; i < data.length; i++){
              arr[i] = data[i];
          }
          
