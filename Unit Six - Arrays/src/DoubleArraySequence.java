@@ -121,7 +121,6 @@ public class DoubleArraySequence implements Cloneable {
          for(int i = 0; i < data.length; i++){
              arr[i] = data[i];
          }
-         
          data = arr;
      }
      
